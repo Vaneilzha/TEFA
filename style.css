@@ -33,3 +33,37 @@ body {
     background-color: #D96F32;
     border-radius: 5px;
 }
+
+.judulrec {
+    font-family: "Joan";
+    text-align: center;
+}
+
+.font {
+    font-family: "Joan";
+    text-align: center;
+}
+
+.rect1 {
+    background-color:#50589C;
+    border: 1px solid #000000;
+    border-radius: 2rem;
+    width: 1300px;
+    height: 400px;
+    position: relative;
+    bottom: 0rem;
+    left: 380px; 
+    top: 300px;
+}
+
+.rect2 {
+    background-color:#50589C;
+    border: 1px solid #000000;
+    border-radius: 2rem;
+    width: 1300px;
+    height: 400px;
+    position: relative;
+    bottom: 0rem;
+    left: 380px; 
+    top: 400px;
+}
